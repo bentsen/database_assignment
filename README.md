@@ -2,7 +2,7 @@
 
 ## Dette er vores opgave til database assignment 1, opgaven indeholder:
 
-"Rapport om database", som er vores rapport som gennemgår arbejdsprocess, spørgsmål og svar
+"Report on database", som er vores rapport som gennemgår arbejdsprocess, spørgsmål og svar
 
 "city_emission_rows", som er vores database med de ønskede koloner
 
